@@ -1,0 +1,6 @@
+[submodule "AndroidApp"]
+	path = AndroidApp
+	url = https://github.com/dragonlex/MobilRing.git
+[submodule "Server2"]
+	path = Server2
+	url = https://github.com/dragonlex/MobilRing-Server2.git
